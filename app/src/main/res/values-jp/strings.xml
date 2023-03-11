@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name" translatable="false">myapp</string>
     <string name="ninjas">Ninjas</string>
     <string name="cats">Cats</string>
     <string name="Search">Search</string>
@@ -10,4 +11,15 @@
     <string name="toggles">Toggles</string>
     <string name="select_an_option">Select an option</string>
     <string name="select_a_robot">Select a robot</string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
 </resources>
