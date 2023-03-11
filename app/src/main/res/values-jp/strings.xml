@@ -11,6 +11,8 @@
     <string name="toggles">Toggles</string>
     <string name="select_an_option">Select an option</string>
     <string name="select_a_robot">Select a robot</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="fragment_b">(Fragment B)</string>
 
     <string-array name="planets_array">
         <item>Mercury</item>
